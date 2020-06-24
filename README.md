@@ -1,7 +1,7 @@
 
 ## Inicializando o App
 
-É necessário ter o NPM ou YARN instalado
+É necessário ter o npm ou yarn instalado
 
 Clone o Repositório
 
